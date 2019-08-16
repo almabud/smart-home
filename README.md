@@ -87,5 +87,5 @@
 
 
 
-[<img src="https://imgur.com/XfXYM3P" width="50%">](https://youtu.be/rjwWxJp5hI8)
+[<img src="https://i.imgur.com/XfXYM3P.png" width="50%">](https://youtu.be/rjwWxJp5hI8)
 
