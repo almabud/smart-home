@@ -79,7 +79,7 @@
 -	Analog out/ middle pin -> Arduino pin A0
 -	Vcc -> 5 volt input
 -	Ground -> any ground pin
-### Display:
+## LCD Display:
 -	rs -> Arduino pin  5;
 -	en -> Arduino pin  6;
 -	d4 – d7 -> Arduino pin  6,10,11,12,13;
